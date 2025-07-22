@@ -64,7 +64,7 @@ console.log(robin.getName());
         <h1>dhiyasri</h1>
       </div>
       <div>
-        <label htmlFor="search">search:</label>
+        <label htmlFor="search">search</label>
         <input id="search" type="text" />
         <h1>
           {welcome.greeting} {welcome.title}
